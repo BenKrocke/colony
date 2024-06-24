@@ -1,0 +1,56 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Level 1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Level 1.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 356.5,
+                "y": 316.5
+            }
+        },
+        "My Tileset.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "MyGame.tsx": {
+            "scaleInDock": 1
+        },
+        "map.json": {
+            "scale": 0.7778124999999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320.1285656890318,
+                "y": 320.7713941341904
+            }
+        }
+    },
+    "last.exportedFilePath": "/Users/ben/code/react/colony/src/maps",
+    "last.imagePath": "/Users/ben/code/react/colony/src/assets/sprites",
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 20,
+    "openFiles": [
+        "My Tileset.tsx",
+        "map.json",
+        "Level 1.tmx"
+    ],
+    "project": "Tiled.tiled-project",
+    "recentFiles": [
+        "My Tileset.tsx",
+        "map.json",
+        "Level 1.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.type": 1
+}
